@@ -59,6 +59,7 @@ https://github.com/Julibe/Games-Grid-Library/
 ## Issues
  - Some wallpapers are just screenshots of the game, posible solution with a new source for images.
 ## Current Games
+
  ### Action
 <table><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Arma 3/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Arma 3/logo.png" width="300px">
 <center>Arma 3</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Biomutant/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Biomutant/logo.png" width="300px">
@@ -142,6 +143,7 @@ https://github.com/Julibe/Games-Grid-Library/
 <center>Yakuza Kiwami 2</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza Like A Dragon/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza Like A Dragon/logo.png" width="300px">
 <center>Yakuza Like A Dragon</center></a></a></td></tr><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Ys Viii Lacrimosa Of Dana/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Ys Viii Lacrimosa Of Dana/logo.png" width="300px">
 <center>Ys Viii Lacrimosa Of Dana</center></a></a></td></tr></table>
+
  ### Adventure
 <table><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Adventure/Everybodys Gone To The Rapture/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Adventure/Everybodys Gone To The Rapture/logo.png" width="300px">
 <center>Everybodys Gone To The Rapture</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Adventure/La Noire/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Adventure/La Noire/logo.png" width="300px">
@@ -149,27 +151,32 @@ https://github.com/Julibe/Games-Grid-Library/
 <center>Raft</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Adventure/Subnautica/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Adventure/Subnautica/logo.png" width="300px">
 <center>Subnautica</center></a></a></td></tr><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Adventure/Subnautica Below Zero/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Adventure/Subnautica Below Zero/logo.png" width="300px">
 <center>Subnautica Below Zero</center></a></a></td></tr></table>
+
  ### Aktion
 <table><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Aktion/Metal Gear Rising Revengeance/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Aktion/Metal Gear Rising Revengeance/logo.png" width="300px">
 <center>Metal Gear Rising Revengeance</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Aktion/Metal Gear Solid V - The Phantom Pain/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Aktion/Metal Gear Solid V - The Phantom Pain/logo.png" width="300px">
 <center>Metal Gear Solid V - The Phantom Pain</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Aktion/Metal Gear Solid V The Phantom Pain/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Aktion/Metal Gear Solid V The Phantom Pain/logo.png" width="300px">
 <center>Metal Gear Solid V The Phantom Pain</center></a></a></td></tr></table>
+
  ### Emulator
 <table><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Emulator/Citra/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Emulator/Citra/logo.png" width="300px">
 <center>Citra</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Emulator/Yuzu/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Emulator/Yuzu/logo.png" width="300px">
 <center>Yuzu</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Emulator/Yuzu Early Access/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Emulator/Yuzu Early Access/logo.png" width="300px">
 <center>Yuzu Early Access</center></a></a></td></tr></table>
+
  ### Fighting
 <table><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Fighting/Mortal Kombat11/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Fighting/Mortal Kombat11/logo.png" width="300px">
 <center>Mortal Kombat11</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Fighting/Soulcalibur Vi/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Fighting/Soulcalibur Vi/logo.png" width="300px">
 <center>Soulcalibur Vi</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Fighting/Street Fighter V/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Fighting/Street Fighter V/logo.png" width="300px">
 <center>Street Fighter V</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Fighting/Tekken 7/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Fighting/Tekken 7/logo.png" width="300px">
 <center>Tekken 7</center></a></a></td></tr></table>
+
  ### Open World
 <table><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Open World/No Mans Sky/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Open World/No Mans Sky/logo.png" width="300px">
 <center>No Mans Sky</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Open World/Rust/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Open World/Rust/logo.png" width="300px">
 <center>Rust</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Open World/Valheim/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Open World/Valheim/logo.png" width="300px">
 <center>Valheim</center></a></a></td></tr></table>
+
  ### Rpg
 <table><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Rpg/Cyberpunk 2077/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Rpg/Cyberpunk 2077/logo.png" width="300px">
 <center>Cyberpunk 2077</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Rpg/Dragon Quest Xi Echoes Of An Elusive Age  Digital Edition Of Light/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Rpg/Dragon Quest Xi Echoes Of An Elusive Age  Digital Edition Of Light/logo.png" width="300px">
@@ -197,8 +204,10 @@ https://github.com/Julibe/Games-Grid-Library/
 <center>The Outer Worlds</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Rpg/Trials Of Mana/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Rpg/Trials Of Mana/logo.png" width="300px">
 <center>Trials Of Mana</center></a></a></td></tr><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Rpg/World Of Final Fantasy/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Rpg/World Of Final Fantasy/logo.png" width="300px">
 <center>World Of Final Fantasy</center></a></a></td></tr></table>
+
  ### Sample
 <table></tr></table>
+
  ### Simulation
 <table><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Simulation/Democracy 4/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Simulation/Democracy 4/logo.png" width="300px">
 <center>Democracy 4</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Simulation/The Sims 4/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Simulation/The Sims 4/logo.png" width="300px">
