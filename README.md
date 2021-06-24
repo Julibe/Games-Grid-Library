@@ -10,7 +10,7 @@ This is a growing collection of Grid Images for games on Steam, GOG, etc.
 	 - Poster (600 × 900)
 	 - Hero Banner (1920 × 620)
 	 - Banner (1920 × 620)
-	 - Logo (1280 × 720)
+	 - Logo (it varies)
 	 - Icon (512 × 512)
 	 - Wallpaper (1920 × 1080)
 
