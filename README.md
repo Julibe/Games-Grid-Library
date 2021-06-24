@@ -225,7 +225,8 @@ https://github.com/Julibe/Games-Grid-Library/
 
  ### Simulation
 <table><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Simulation/Democracy 4/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Simulation/Democracy 4/logo.png" width="300px">
-<center>Democracy 4</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Simulation/The Sims 4/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Simulation/The Sims 4/logo.png" width="300px">
+<center>Democracy 4</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Simulation/The Sims 3/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Simulation/The Sims 3/logo.png" width="300px">
+<center>The Sims 3</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Simulation/The Sims 4/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Simulation/The Sims 4/logo.png" width="300px">
 <center>The Sims 4</center></a></a></td></tr></table>
 
- ## Total Games: 138
+ ## Total Games: 139
