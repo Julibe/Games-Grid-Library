@@ -39,8 +39,9 @@ This is a growing collection of Grid Images for games on Steam, GOG, etc.
 </table>
 
 ## Copyright & trademark
-All copyrights © and trademarks ™ of the art, characters, logos and images belong to their respective owners and are not being sold. 
-I do not claim ownership over the art, characters, logos and images in this proyect. 
+All copyrights © and trademarks ™ of the art, characters, logos and images belong to their respective owners and should not be sold.
+
+I do not claim ownership of any of the assets in this project.
 
 https://github.com/Julibe/Games-Grid-Library/
 
