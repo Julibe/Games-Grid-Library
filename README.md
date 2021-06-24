@@ -42,6 +42,19 @@ This is a growing collection of Grid Images for games on Steam, GOG, etc.
 https://github.com/Julibe/Games-Grid-Library/
 
 
+## Todo
+ - Maybe make a simple web page for easy finding.
+ - Fix roman Characters.
+ - Add new source for non steam games or console roms and missing images.
+
+ - Add MORE MORE games.
+
+ - Add MORE emulators.
+
+ - Add consoles.
+
+## Issues
+ - Some wallpapers are just screenshots of the game, posible solution with a new source for images.
 ## Current Games
  - Action
 	 - Arma 3
@@ -178,7 +191,3 @@ https://github.com/Julibe/Games-Grid-Library/
  - Simulation
 	 - Democracy 4
 	 - The Sims 4
-
-##Todo
- - Fix roman Characters.
- - Add new scraper for non steam games.
