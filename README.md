@@ -3,10 +3,11 @@ This is a growing collection of flat Games Grid for Steam, GOG, etc.
    - The Games Grid are organized in folders according to game.
    - All images are in png format.
    - The formats are:
-   - - Poster (600 X 900)
-   - - Hero Banner (1920 x 620)
-   - - Logo (1280 x 720)
-   - - Icon (512 x 512)
+   	- Poster (600 × 900)
+	- Hero Banner (1920 × 620)
+	- Logo (1280 × 720)
+	- Icon (512 × 512)
+	- Wallpaper (1920 × 1080)
 
 
 ### Samples
