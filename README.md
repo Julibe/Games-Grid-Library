@@ -129,19 +129,20 @@ https://github.com/Julibe/Games-Grid-Library/
 <center>Sea Of Thieves</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Secret Of Mana/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Secret Of Mana/logo.png" width="300px">
 <center>Secret Of Mana</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Skul The Hero Slayer/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Skul The Hero Slayer/logo.png" width="300px">
 <center>Skul The Hero Slayer</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/State Of Decay 2 Juggernaut Edition/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/State Of Decay 2 Juggernaut Edition/logo.png" width="300px">
-<center>State Of Decay 2 Juggernaut Edition</center></a></a></td></tr><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Tales Of Arise/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Tales Of Arise/logo.png" width="300px">
+<center>State Of Decay 2 Juggernaut Edition</center></a></a></td></tr><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Super Meat Boy Forever/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Super Meat Boy Forever/logo.png" width="300px">
+<center>Super Meat Boy Forever</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Tales Of Arise/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Tales Of Arise/logo.png" width="300px">
 <center>Tales Of Arise</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Tales Of Berseria/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Tales Of Berseria/logo.png" width="300px">
 <center>Tales Of Berseria</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/The Messenger/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/The Messenger/logo.png" width="300px">
-<center>The Messenger</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Warframe/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Warframe/logo.png" width="300px">
-<center>Warframe</center></a></a></td></tr><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza 0/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza 0/logo.png" width="300px">
+<center>The Messenger</center></a></a></td></tr><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Warframe/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Warframe/logo.png" width="300px">
+<center>Warframe</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza 0/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza 0/logo.png" width="300px">
 <center>Yakuza 0</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza 3 Remastered/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza 3 Remastered/logo.png" width="300px">
 <center>Yakuza 3 Remastered</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza 4 Remastered/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza 4 Remastered/logo.png" width="300px">
-<center>Yakuza 4 Remastered</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza 5 Remastered/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza 5 Remastered/logo.png" width="300px">
-<center>Yakuza 5 Remastered</center></a></a></td></tr><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza 6 The Song Of Life/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza 6 The Song Of Life/logo.png" width="300px">
+<center>Yakuza 4 Remastered</center></a></a></td></tr><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza 5 Remastered/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza 5 Remastered/logo.png" width="300px">
+<center>Yakuza 5 Remastered</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza 6 The Song Of Life/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza 6 The Song Of Life/logo.png" width="300px">
 <center>Yakuza 6 The Song Of Life</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza Kiwami/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza Kiwami/logo.png" width="300px">
 <center>Yakuza Kiwami</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza Kiwami 2/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza Kiwami 2/logo.png" width="300px">
-<center>Yakuza Kiwami 2</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza Like A Dragon/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza Like A Dragon/logo.png" width="300px">
-<center>Yakuza Like A Dragon</center></a></a></td></tr><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Ys Viii Lacrimosa Of Dana/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Ys Viii Lacrimosa Of Dana/logo.png" width="300px">
+<center>Yakuza Kiwami 2</center></a></a></td></tr><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Yakuza Like A Dragon/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Yakuza Like A Dragon/logo.png" width="300px">
+<center>Yakuza Like A Dragon</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Action/Ys Viii Lacrimosa Of Dana/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Action/Ys Viii Lacrimosa Of Dana/logo.png" width="300px">
 <center>Ys Viii Lacrimosa Of Dana</center></a></a></td></tr></table>
 
  ### Adventure
@@ -170,6 +171,10 @@ https://github.com/Julibe/Games-Grid-Library/
 <center>Soulcalibur Vi</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Fighting/Street Fighter V/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Fighting/Street Fighter V/logo.png" width="300px">
 <center>Street Fighter V</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Fighting/Tekken 7/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Fighting/Tekken 7/logo.png" width="300px">
 <center>Tekken 7</center></a></a></td></tr></table>
+
+ ### Indie
+<table><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Indie/Super Meat Boy/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Indie/Super Meat Boy/logo.png" width="300px">
+<center>Super Meat Boy</center></a></a></td></tr></table>
 
  ### Open World
 <table><tr align="center"><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Open World/No Mans Sky/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Open World/No Mans Sky/logo.png" width="300px">
@@ -213,4 +218,4 @@ https://github.com/Julibe/Games-Grid-Library/
 <center>Democracy 4</center></a></a></td><td><a href="https://github.com/Julibe/Games-Grid-Library/tree/main/Simulation/The Sims 4/" target="_blank"><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Simulation/The Sims 4/logo.png" width="300px">
 <center>The Sims 4</center></a></a></td></tr></table>
 
- ## Total Games: 127
+ ## Total Games: 129
