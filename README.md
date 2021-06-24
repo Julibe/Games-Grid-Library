@@ -15,21 +15,24 @@ This is a growing collection of Grid Images for games on Steam, GOG, etc.
 
 ### Samples
 <table>
-	<tr style="text-aligh:center">
+	<tr>
 		<td>
-			<img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/logo.png" width="250px"><br>Logo
+			<center><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/logo 2.png" width="250px"><br>Logo</center>
 		</td>
 		<td>
-			<img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/hero.jpg" width="250px"><br>Hero Banner
+			<center><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/logo.png" width="250px"><br>Icon</center>
 		</td>
 		<td>
-			<img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/horizontal.jpg" width="250px"><br>Banner (horizontal)
+			<center><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/hero.jpg" width="250px"><br>Hero Banner</center>
 		</td>
 		<td>
-			<img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/Poster.jpg" width="250px"><br>Poster
+			<center><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/horizontal.jpg" width="250px"><br>Banner (horizontal)</center>
 		</td>
 		<td>
-			<img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/wallpaper.jpg" width="250px"><br>Wallpaper
+			<center><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/Poster.jpg" width="250px"><br>Poster</center>
+		</td>
+		<td>
+			<center><img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/wallpaper.jpg" width="250px"><br>Wallpaper</center>
 		</td>
 	</tr>
 </table>
