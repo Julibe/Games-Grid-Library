@@ -38,7 +38,7 @@ This is a growing collection of Grid Images for games on Steam, GOG, etc.
 	</tr>
 </table>
 
-## Copyright
+## Copyright & trademark
 All copyrights © and trademarks ™ of the art, characters, logos and images belong to their respective owners and are not being sold. 
 I do not claim ownership over the art, characters, logos and images in this proyect. 
 
