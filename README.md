@@ -16,7 +16,7 @@ This is a growing collection of Grid Images for games on Steam, GOG, etc.
 
 ### Samples
 <table>
-	<tr>
+	<tr align="center">
 		<td>
 			<img src="https://github.com/Julibe/Games-Grid-Library/raw/main/Yuzu/logo 2.png" width="250px"><br><center>Logo</center>
 		</td>
