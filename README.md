@@ -1,14 +1,14 @@
-# Games Grid Library
-This is a growing collection of flat Games Grid for Steam, GOG, etc.
-   - The Games Grid are organized in folders according to game.
-   - All images are in png format.
-   - The formats are:
-   	- Poster (600 × 900)
-	- Hero Banner (1920 × 620)
-	- Logo (1280 × 720)
-	- Icon (512 × 512)
-	- Wallpaper (1920 × 1080)
 
+# Games Grid Library
+This is a growing collection of Grid Images for games on Steam, GOG, etc.
+     - The grid is organized in folders according to the game.
+     - All images are in PNG format.
+     - The formats are:
+		- Poster (600 × 900)
+		- Hero Banner (1920 × 620)
+		- Logo (1280 × 720)
+		- Icon (512 × 512)
+		- Wallpaper (1920 × 1080)
 
 ### Samples
 <table>
