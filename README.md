@@ -4,7 +4,7 @@
 # Games Grid Library
 This is a growing collection of Grid Images for games on Steam, GOG, etc.
 
- - The grid is organized in folders according to the game.
+ - The grid is organized in folders according to the genre and the game.
  - All images are in JPG or PNG format, ICO for icons.
  - The formats are:
 	 - Poster (600 × 900)
@@ -38,6 +38,9 @@ This is a growing collection of Grid Images for games on Steam, GOG, etc.
 	</tr>
 </table>
 
+## Copyright
+All copyrights © and trademarks ™ of the art, characters, logos and images belong to their respective owners and are not being sold. 
+I do not claim ownership over the art, characters, logos and images in this proyect. 
 
 https://github.com/Julibe/Games-Grid-Library/
 
